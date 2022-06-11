@@ -5,9 +5,9 @@
 
 ## Results:
    * After refactoring the code, it became obvious that the "**For Loop**" was the critical element that would enable us and Steve's parents to analyze the stock data with minimal effort. Moreover, The For Loops we implemented allowed us to quickly examine stock data associated with an array (list) of 12 total tickers and effortlessly calculate total daily volume and return for each ticker and most importantly apply it to different years of data. Below are examples of two critical For Loops we used to make this possible. 
-     * Looping Over Rows: In the below example, we created a For Loop that combs through the spreadsheet by looping over all the rows and with the help of conditionals, we were able to determine and store the starting and ending prices for the desired year. See below.
+     * **Looping Over Rows:** In the below example, we created a For Loop that combs through the spreadsheet by looping over all the rows and with the help of conditionals, we were able to determine and store the starting and ending prices for the desired year. See below.
        * ![For_Loop_Over_Rows](Resources/For_Loop_over_rows.png)
-     * Looping through arrays to output Ticker, Total Daily Volume, and Return: The next critical For Loop we created enables us to ouput the desired result (Total Daily Volume and Return). Following this step, we were able to create a code to that would apply formatting for the worksheet "All Stocks Analysis." Notice towards the end of the code there is an "endTime = Timer" followed by a Msg Box dictating the code run time with the year value. We will get in more detail on this later. For now, reference the below image.
+     * **Looping through arrays to output Ticker, Total Daily Volume, and Return:** The next critical For Loop we created enables us to ouput the desired result (Total Daily Volume and Return). Following this step, we were able to create a code to that would apply formatting for the worksheet "All Stocks Analysis." Notice towards the end of the code there is an "endTime = Timer" followed by a Msg Box dictating the code run time with the year value. We will get in more detail on this later. For now, reference the below image.
        * ![For_Loop_through arrays](Resources/FOR_LOOP_ARRAYS_OUTPUT.png)
 
       
