@@ -9,6 +9,14 @@
        * ![For_Loop_Over_Rows](Resources/For_Loop_over_rows.png)
      * **Looping through arrays to output Ticker, Total Daily Volume, and Return:** The next critical For Loop we created enables us to ouput the desired result (Total Daily Volume and Return). Following this step, we were able to create a code to that would apply formatting for the worksheet "All Stocks Analysis." Notice towards the end of the code there is an "endTime = Timer" followed by a Msg Box dictating the code run time with the year value. We will get in more detail on this later. For now, reference the below image.
        * ![For_Loop_through arrays](Resources/FOR_LOOP_ARRAYS_OUTPUT.png)
-   * **Comparing 2017 and 2018 Stock Performances:** After our coding/refactoring was complete, we were able to run our full VBA script and compare 2017 and 2018 stock performances thanks to quick calculations and conditional formatting. As seen in the images below, RUN and ENPH are the only stocks that had positive returns in both 2017 and 2018. Based on this, Steve's parents should feel more secure in investing in these stocks compared to others. 
+   * **Comparing 2017 and 2018 Stock Performances:** After our coding/refactoring was complete, we were able to run our full VBA script and compare 2017 and 2018 stock performances thanks to quick calculations and conditional formatting. As seen in the images below, RUN and ENPH are the only stocks that had positive returns in both 2017 and 2018. Based on this, Steve's parents should feel more secure in investing in these stocks compared to others. See images below.
+       * **2017 Returns:** 
+         * ![2017_Returns](Resources/2017_Results.png)
+         
+       * **2018 Returns:** 
+         * ![2018_Results](Resources/2018_Results.png)
+         
+   * Comparison of Execution Times:  
 
-      
+      ![For_Loop_through arrays](Resources/VBA_Challenge_2017.png)
+      ![For_Loop_through arrays](Resources/VBA_Challenge_2018.png)
