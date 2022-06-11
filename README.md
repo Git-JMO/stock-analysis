@@ -5,4 +5,4 @@
 
 ## Results:
    *
-![2017_Results](Resources/Total_Votes_County_Votes2.png)
+![2017_Results](Resources/For_Loop_over_rows.png)
