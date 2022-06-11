@@ -16,7 +16,11 @@
        * **2018 Returns:** 
          * ![2018_Results](Resources/2018_Results.png)
          
-   * Comparison of Execution Times:  
-
-      ![For_Loop_through arrays](Resources/VBA_Challenge_2017.png)
-      ![For_Loop_through arrays](Resources/VBA_Challenge_2018.png)
+   * **Comparison of Execution Times:** Not only were we able to retrieve the results we needed, the refactoring of the code made our script run quicker and more efficient. See below images for a comparison of the run times for 2018 data using the original code and the refactored code.
+   
+       * **Run Time using Original Code (2018):**  
+         * ![Original_2018_RT](Resources/Original_2018_runtime.png)
+         
+       * **Run Time using REFACTORED Code (2018):**
+         * ![NEW_2018_RT](Resources/VBA_Challenge_2018.png)
+      
