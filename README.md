@@ -16,11 +16,14 @@
        * **2018 Returns:** 
          * ![2018_Results](Resources/2018_Results.png)
          
-   * **Comparison of Execution Times:** Not only were we able to retrieve the results we needed, the refactoring of the code made our script run quicker and more efficient. See below images for a comparison of the run times for 2018 data using the original code and the refactored code.
+   * **Comparison of Execution Times:** Not only were we able to retrieve the results we needed, the refactoring of the code made our script run quicker and more efficient. See below images for a comparison of the run times for 2018 data using the original script and the refactored script.
    
        * **Run Time using Original Code (2018):**  
          * ![Original_2018_RT](Resources/Original_2018_runtime.png)
          
        * **Run Time using REFACTORED Code (2018):**
          * ![NEW_2018_RT](Resources/VBA_Challenge_2018.png)
+    
+## Summary: 
+   * Overall, refactoring the code/script was a success. However, there are advantages and disadvantages to refactoring code. One advantage as demonstrated above is the reduction of execution time. Additionally, refactoring code, if done correctly, makes the script cleaner and easier to read (aka more efficient). The big disadvantage of refactoring code is it can be difficult to read or follow the original script, especially if someone else coded it and failed to add comments. This makes refactoring more time consuming.  Fortunately, in our case, we had comments included in the script that allowed us to understand the logic and purpose behind what we were doing. Admittedly,  it was easy to get tunnel vision at times and get stuck in pieces of code; however, the comments in the script helped us regain focus and accomplish our goal.  
       
